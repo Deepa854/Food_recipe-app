@@ -1,9 +1,4 @@
-## Intruduction: Food recipe app
-     Here in this app we should have a component where we are going to show our food recipes.And we need to fetch all the required food recipes using a food recipe API. We 
- will fetch the API data, store those data in a component structure using react hooks (useEffect, useState ).
- Getting food recipe API KEY: First of all we will get all the food recipes by fetching the data from API.  For this, we will use the  platform called EDAMAM.
- https://developer.edamam.com/ 
-
+## Intruduction:   Here in this app we should have a component where we are going to show our food recipes. And we need to fetch all the required food recipes using a food recipe API. We will fetch the API data, store those data in a component structure using react hooks (useEffect, useState ).
 
 # Getting Started with Create React App
 
