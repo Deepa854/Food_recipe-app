@@ -8,8 +8,12 @@
 * There’s a Recipe Search API option > click view on that section From there copy your Application ID and Application Keys and store it somewhere.
 
 # Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+   Step 1: Create a React application using the following command:   
+                    npx create-react-app foldername
+   Step 2: After creating your project folder i.e. foldername, move to it using the following command:  
+                   cd foldername
+   Step 3: Now inside src/App.js file, provide tour own app id and app key in the place of <YOUR_APP_ID> and <YOUR_APP_KEY> which you have got from
+          
 
 ## Available Scripts
 
