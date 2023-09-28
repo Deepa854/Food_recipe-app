@@ -1,3 +1,9 @@
+## Intruduction:
+     Here in this app we should have a component where we are going to show our food recipes.
+          And we need to fetch all the required food recipes using a food recipe API. We will fetch the API data,
+          store those data in a component structure using react hooks (useEffect, useState ).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
