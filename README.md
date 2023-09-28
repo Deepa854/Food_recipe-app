@@ -1,3 +1,6 @@
+## Output:
+     ![image](https://github.com/Deepa854/Food_recipe-app/assets/71885819/a7b1712a-93c9-458e-b27e-512880f3f846)
+
 ## Intruduction:  
   Here in this app we should have a component where we are going to show our food recipes. And we need to fetch all the required food recipes using a food recipe API. We 
   will fetch the API data, store those data in a component structure using react hooks (useEffect, useState ).
@@ -76,7 +79,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+#
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
